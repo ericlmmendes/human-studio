@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Digital Human Studio",
+  "description": "Plataforma de influenciadores digitais com bloqueio absoluto de identidade para geração de imagens fotorrealistas via Gemini Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
